@@ -1,8 +1,7 @@
-# Data science portfolio by Sairam Chennapragada
-
+# Data science portfolio by Sairam Chennapragada    
+ 
+ 
 This portfolio is a compilation of all my work related to Machine Learning. 
-
-Check out my site @https://ram-ch.github.io/site/
 
 # Machine Learning      
    
