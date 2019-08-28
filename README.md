@@ -1,4 +1,4 @@
-# Machine Learning portfolio by Sairam Chennapragada    
+# Data Science portfolio by Sairam Chennapragada    
  
  
 This portfolio is a compilation of all my work related to Machine Learning. 
