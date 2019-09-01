@@ -14,7 +14,7 @@ In this note book I have analysed the Habernam data set to understand the behavi
 
 
 ### Descriptive Analytics [Visualizations] on Customer Churn dataset    
-[nbviewer](https://nbviewer.jupyter.org/github/ram-ch/MachineLearning/blob/master/Notebooks/Descriptive%20Analytics%20on%20Customer%20Churn%20Data%20set.ipynb)
+[nbviewer](https://nbviewer.jupyter.org/github/ram-ch/MachineLearning/blob/master/Notebooks/Exploratory%20Data%20Analysis%20on%20Customer%20Churn%20Dataset.ipynb)
 
 
 In this note book I have analysed the Customer Churn data set to understand the behaviour of the data and have made few interesting observations about who, what and why the customers are leaving a certain bank. All my insights are inferred from various visualizations on the data
