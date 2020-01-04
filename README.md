@@ -18,3 +18,11 @@ In this note book I have analysed the Habernam data set to understand the behavi
 
 
 In this note book I have analysed the Customer Churn data set to understand the behaviour of the data and have made few interesting observations about who, what and why the customers are leaving a certain bank. All my insights are inferred from various visualizations on the data
+
+
+### Classification with K-Nearest Neighbors On Drug Review Dataset        
+[nbviewer](https://nbviewer.jupyter.org/github/ram-ch/MachineLearning/blob/master/Notebooks/Classification_with_KNN_On_Drug_Review_Dataset.ipynb)        
+
+In this note book I have applied K nearest neighbors algorithm to perform a classification task on Drug review data set. This analysis classifies the drugs based on the patients reviews.     
+
+
