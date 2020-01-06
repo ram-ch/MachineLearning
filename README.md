@@ -33,6 +33,7 @@ In this note book I have applied K nearest neighbors algorithm to perform a clas
 
 
 ## Natural Language Processing     
+[nbviewer](https://nbviewer.jupyter.org/github/ram-ch/MachineLearning/blob/master/Notebooks/EDA%20%26%20NLP%20on%20Disaster%20Tweet%20Dataset.ipynb)
 
 In this note book I have done basic EDA, Cleaning and NLP on the Disaster data set. This analysis is only an attempt of dealing with text data with a focus on NLP. Further improvements to this analysis include vectorization, training a classifier    
 
